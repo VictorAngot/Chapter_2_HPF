@@ -1,0 +1,21 @@
+Process;ko;gene_name;PGPR_related
+Nitrogen fixation;K02588;nifH;Yes
+Nitrogen fixation;K02586;nifD;Yes
+Nitrogen fixation;K02591;nifK;Yes
+Phosphate solubilization;K06136;pqqB;Yes
+Phosphate solubilization;K06137;pqqC;Yes
+Phosphate solubilization;K06138;pqqD;Yes
+Phosphate solubilization;K06139;pqqE;Yes
+Auxin synthesis;K04103;ipdC;Yes
+Auxin synthesis;K02681;ppdC;Yes
+NO synthesis;K00368;nirK;Yes
+Acetoine/2,3-butanediol synthesis;K01575;budA;Yes
+Acetoine/2,3-butanediol synthesis;K03366;budC;Yes
+Antimicrobial compound synthesis;K10814;hcnA;Yes
+Antimicrobial compound synthesis;K10815;hcnB;Yes
+Antimicrobial compound synthesis;K10816;hcnC;Yes
+Antimicrobial compound synthesis;K22838;phlA;Yes
+Antimicrobial compound synthesis;K22839;phlC;Yes
+Antimicrobial compound synthesis;K22840;phlB;Yes
+Antimicrobial compound synthesis;K15431;phlD;Yes
+ACC deaminase;K01505;acdS;Yes
